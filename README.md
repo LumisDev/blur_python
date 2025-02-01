@@ -2,7 +2,7 @@
 
 The showcase:
 
-<video src="assets/showcase.mp4" controls></video>
+https://github.com/LumisDev/blur_python/raw/refs/heads/master/assets/showcase.mp4
 
 To use:
 
