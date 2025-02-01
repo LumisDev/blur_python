@@ -1,9 +1,5 @@
 # TINY PYTHON SCRIPT FOR BLUR
 
-The showcase:
-
-<video src="https://github.com/LumisDev/blur_python/raw/refs/heads/master/assets/showcase.mp4" controls></video>
-
 To use:
 
 1. Install dependencies: 
@@ -16,3 +12,5 @@ python blur.py path/to/invideo.mp4 path/to/outvideo.mp4
 # Replace path/to/invideo.mp4 by the path of a real video
 # Replace path/to/outvideo.mp4 by the path of a video
 ```
+## Is there any showcase?
+No! You can test it yourself :)
